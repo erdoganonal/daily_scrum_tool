@@ -1,0 +1,10 @@
+{
+    "time_for_each_person": true,
+    "pause_option": true,
+    "always_top": true,
+    "photos_folder": "photos",
+    "names_file": "names.txt",
+    "total_timer_title": "Daily Scrum",
+    "timer_for_each_person_title": "Time for this stage :",
+    "meeting_time": 900
+}
